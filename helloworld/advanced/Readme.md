@@ -1,0 +1,1 @@
+O código possui um número de 64bits que representa uma tabela de caracteres, 0x726F6C6564574820, já o número 0x357620655410  uma sequência de indices de 4bits que aponta para a posição na tabela anterior, correspondendo as letras da mensagem.
