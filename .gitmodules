@@ -1,0 +1,3 @@
+[submodule "Dynamic-Loading_Example_1"]
+	path = Dynamic-Loading/Example_1
+  url = https://github.com/theo-pnv/Dynamic-Loading
